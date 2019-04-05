@@ -14,22 +14,17 @@ url: "https://eternaltimes.github.io" # the base hostname & protocol for your si
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username: 
+facebook_username: 
 github_username:  Eternal Times
 email: 1749119916@qq.com
 weibo_username: 
 zhihu_username: 
-linkedIn_username: #xinyao1994
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 来自永恒的时光！
 
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-# duoshuo_shortname: xyao #hygblog
-# disqus_shortname: #gaohaoyang
 # using Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
@@ -39,21 +34,6 @@ gitalk:
   owner: EternalTimes    #github用户名
   admin: EternalTimes
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-#hm.src = "https://hm.baidu.com/hm.js?82507a2273ca5e2e8e1ffb9bca960fa0";
-# xxxxx字符串
-baidu_tongji_id: 82507a2273ca5e2e8e1ffb9bca960fa0
-#google_analytics_id: UA-126298955-1 # google 分析追踪id
-#ga_domain: auto
-
-#friends: [
-#    {
-#        title: "Linkedin - Xin YAO",
-#        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-#    }
-#]
 
 # Build settings
 markdown: kramdown
